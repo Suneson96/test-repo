@@ -4,3 +4,5 @@ git add README.md
 
 # Method 2: Add all files in current directory 
 git add .
+
+Lorim Ipsum
